@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="tinyxml2.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2050" topLine="60" />
+		</Cursor>
+	</File>
+	<File name="tinyxml2.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="50455" topLine="1681" />
+		</Cursor>
+	</File>
+	<File name="Script.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6098" topLine="178" />
+		</Cursor>
+		<Folding>
+			<Collapse line="30" />
+			<Collapse line="37" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1415494696 source:c:\users\sdaily\desktop\bizsync xml scripting project\bizsyncscript\tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<cstddef>
+
+1415494696 c:\users\sdaily\desktop\bizsync xml scripting project\bizsyncscript\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cstdarg>
+	<android/log.h>
+	<assert.h>
+
+1416540235 source:c:\users\sdaily\desktop\bizsync xml scripting project\bizsyncscript\script.cpp
+	"tinyxml2.h"
+	<string>
+	<cstring>
+	<cctype>
+	<ctime>
+	<stdlib.h>
+	<windows.h>
+	<fstream>
+
+1415494696 c:\users\sdaily\desktop\bizsync xml scripting project\bizsyncscript\tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<cstddef>
+
